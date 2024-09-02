@@ -12,8 +12,8 @@ const DisplayHome = () => {
         <div className="mb-6">
           <h1 className="my-5 font-bold text-2xl flex justify-between">
             Featured Charts
-            <a href="#" className="text-lg text-gray-400 hover:underline">
-              Show All
+            <a href="#" className="text-sm text-gray-400 hover:underline">
+              Show all
             </a>
           </h1>
           <div className="flex overflow-auto">
@@ -30,8 +30,8 @@ const DisplayHome = () => {
         <div className="mb-6">
           <h1 className="my-5 font-bold text-2xl flex justify-between">
             Today's Biggest Hits
-            <a href="#" className="text-lg text-gray-400 hover:underline">
-              Show All
+            <a href="#" className="text-sm text-gray-400 hover:underline">
+              Show all
             </a>
           </h1>
           <div className="flex overflow-auto">
